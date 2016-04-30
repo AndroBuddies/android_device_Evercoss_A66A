@@ -14,13 +14,13 @@
 
 * Compilation
 
-        # repo init -u git://github.com/batsilos/android.git -b cm-13.0
+        # repo init -u git://github.com/AndroBuddies/android.git -b cm-13.0
         
         # repo sync
         
         # source build/envsetup.sh
         
-        # brunch cm_g4s-userdebug -jx (x=number of cpu +1)
+        # brunch cm_a66a-userdebug -jx (x=number of cpu +1)
 
 # MTK
 
